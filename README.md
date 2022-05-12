@@ -9,8 +9,8 @@ Repositório para armazenar conteúdo do curso [Web Moderno](https://www.udemy.c
 -   Iniciando com Programação ✅
 -   Javascript: Fundamentos ✅
 -   Javascript: Estruturas de Controle ✅
--   Javascript: Função (em andamento)
--   Javascript: Objeto
+-   Javascript: Função ✅
+-   Javascript: Objeto (em andamento)
 -   Javascript: Array
 -   Node
 -   ESNext
