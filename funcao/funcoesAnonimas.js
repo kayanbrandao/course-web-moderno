@@ -18,4 +18,5 @@ const pessoa = {
 		console.log("Olá");
 	},
 };
+
 pessoa.falar();
