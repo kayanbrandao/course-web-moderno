@@ -11,10 +11,10 @@ Repositório para armazenar conteúdo do curso [Web Moderno](https://www.udemy.c
 -   Javascript: Estruturas de Controle ✅
 -   Javascript: Função ✅
 -   Javascript: Objeto ✅
--   Javascript: Array (em andamento)
+-   Javascript: Array ✅
 -   Node
 -   ESNext
--   Conceitos sobre Web
+-   Conceitos sobre Web (em andamento)
 -   HTML
 -   CSS
 -   Integrando HTML, CSS e JS
